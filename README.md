@@ -1,4 +1,4 @@
-# 🚔 Police Hostage Rescue
+# 🚔 RAID
 
 ## About the Game
 A high-stakes Unity first-person shooter where you play a police officer tasked with rescuing a hostage from a dangerous building.
@@ -24,14 +24,3 @@ A high-stakes Unity first-person shooter where you play a police officer tasked 
 1. Clone repository
 2. Open in Unity (2022.3+)
 3. Build and run
-
-## 💻 System Requirements
-- Windows 10/11 or macOS
-- 8GB RAM
-- DirectX/Metal compatible GPU
-
-## 📄 License
-MIT License
-
-## 🚀 Contributing
-Pull requests welcome. For major changes, please open an issue first.
