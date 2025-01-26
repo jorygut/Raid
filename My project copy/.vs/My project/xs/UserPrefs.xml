@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{32C3BDE6-E125-3128-82C1-25D0441455A3}|">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GlobalScripts/Loadout.cs">
+    <Files>
+      <File FileName="Assets/Scripts/FootChaseScripts/FootChaseMovement.cs" Line="85" Column="10" />
+      <File FileName="Assets/Scripts/RaidScripts/CamOb.cs" />
+      <File FileName="Assets/Scripts/RaidScripts/CameraController.cs" />
+      <File FileName="Assets/Scripts/FootChaseScripts/ChangeDirectionEnemy.cs" Line="56" Column="99" />
+      <File FileName="Assets/Scripts/FootChaseScripts/Pistol.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/GlobalScripts/Loadout.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/RaidScripts/Climb.cs" Line="57" Column="37" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="My project" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="FootChaseScripts" expanded="True" />
+                <Node name="GlobalScripts" expanded="True">
+                  <Node name="Loadout.cs" selected="True" />
+                </Node>
+                <Node name="RaidScripts" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="a78365c3-4201-4ce1-b957-dff685cca596" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
